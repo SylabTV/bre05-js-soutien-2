@@ -9,3 +9,4 @@ for(let i = 0;i<panier.length;i++){
         console.log("Fruit trouvé:" + panier[i][j]);
     }
 }
+ 
